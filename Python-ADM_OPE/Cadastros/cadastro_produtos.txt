@@ -1,0 +1,6 @@
+codigo:100 desc:blabla preco:12.0 quant:0
+codigo:101 desc:bleble preco:11.0 quant:0
+codigo:102 desc:bomdia preco:41.0 quant:0
+codigo:103 desc:aua preco:99.0 quant:0
+codigo:104 desc:lou preco:15.0 quant:0
+codigo:105 desc:fg preco:85.0 quant:4

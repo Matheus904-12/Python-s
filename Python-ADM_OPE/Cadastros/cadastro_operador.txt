@@ -1,0 +1,1 @@
+codigo:105 desc:fg preco:85.0 quant:6
